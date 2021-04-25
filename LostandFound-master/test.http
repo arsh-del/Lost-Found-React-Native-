@@ -1,0 +1,12 @@
+
+
+POST http://localhost:8080/contact
+Content-Type: application/json
+
+
+{
+"name": "Ajit Pal",
+  "email": "ajitpal353@gmail.com",
+  "phoneNo": "5878916111",
+  "description": "Thanks i love this app i found my lost keys through your app"
+}
